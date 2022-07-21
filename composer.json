@@ -1,17 +1,11 @@
 {
-    "name": "themes/natra",
+    "name": "temairvan/natra",
     "type": "library",
     "description": "Tema OpenSID",
-    "homepage": "https://github.com/OpenSID/tema-natra",
+    "homepage": "https://github.com/Irvan1609/tema-natra",
     "license": "GPL-3.0-or-later",
     "keywords": [
       "Themes",
       "OpenSID"
-    ],
-    "authors": [
-      {
-        "name": "Ariandi Ryan Kahfi",
-        "email": "ariandi@mail.com"
-      }
-  ]
+    ]
 }
